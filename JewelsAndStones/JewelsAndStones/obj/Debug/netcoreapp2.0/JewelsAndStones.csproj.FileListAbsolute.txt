@@ -1,0 +1,11 @@
+E:\C#\Leet_Code_Algorithms\JewelsAndStones\JewelsAndStones\bin\Debug\netcoreapp2.0\JewelsAndStones.deps.json
+E:\C#\Leet_Code_Algorithms\JewelsAndStones\JewelsAndStones\bin\Debug\netcoreapp2.0\JewelsAndStones.runtimeconfig.json
+E:\C#\Leet_Code_Algorithms\JewelsAndStones\JewelsAndStones\bin\Debug\netcoreapp2.0\JewelsAndStones.runtimeconfig.dev.json
+E:\C#\Leet_Code_Algorithms\JewelsAndStones\JewelsAndStones\bin\Debug\netcoreapp2.0\JewelsAndStones.dll
+E:\C#\Leet_Code_Algorithms\JewelsAndStones\JewelsAndStones\bin\Debug\netcoreapp2.0\JewelsAndStones.pdb
+E:\C#\Leet_Code_Algorithms\JewelsAndStones\JewelsAndStones\obj\Debug\netcoreapp2.0\JewelsAndStones.csprojAssemblyReference.cache
+E:\C#\Leet_Code_Algorithms\JewelsAndStones\JewelsAndStones\obj\Debug\netcoreapp2.0\JewelsAndStones.csproj.CoreCompileInputs.cache
+E:\C#\Leet_Code_Algorithms\JewelsAndStones\JewelsAndStones\obj\Debug\netcoreapp2.0\JewelsAndStones.AssemblyInfoInputs.cache
+E:\C#\Leet_Code_Algorithms\JewelsAndStones\JewelsAndStones\obj\Debug\netcoreapp2.0\JewelsAndStones.AssemblyInfo.cs
+E:\C#\Leet_Code_Algorithms\JewelsAndStones\JewelsAndStones\obj\Debug\netcoreapp2.0\JewelsAndStones.dll
+E:\C#\Leet_Code_Algorithms\JewelsAndStones\JewelsAndStones\obj\Debug\netcoreapp2.0\JewelsAndStones.pdb
