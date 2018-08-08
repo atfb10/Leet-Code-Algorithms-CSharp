@@ -1,0 +1,11 @@
+E:\C#\Leet_Code_Algorithms\ToLowerCase\ToLowerCase\bin\Debug\netcoreapp2.0\ToLowerCase.deps.json
+E:\C#\Leet_Code_Algorithms\ToLowerCase\ToLowerCase\bin\Debug\netcoreapp2.0\ToLowerCase.runtimeconfig.json
+E:\C#\Leet_Code_Algorithms\ToLowerCase\ToLowerCase\bin\Debug\netcoreapp2.0\ToLowerCase.runtimeconfig.dev.json
+E:\C#\Leet_Code_Algorithms\ToLowerCase\ToLowerCase\bin\Debug\netcoreapp2.0\ToLowerCase.dll
+E:\C#\Leet_Code_Algorithms\ToLowerCase\ToLowerCase\bin\Debug\netcoreapp2.0\ToLowerCase.pdb
+E:\C#\Leet_Code_Algorithms\ToLowerCase\ToLowerCase\obj\Debug\netcoreapp2.0\ToLowerCase.csprojAssemblyReference.cache
+E:\C#\Leet_Code_Algorithms\ToLowerCase\ToLowerCase\obj\Debug\netcoreapp2.0\ToLowerCase.csproj.CoreCompileInputs.cache
+E:\C#\Leet_Code_Algorithms\ToLowerCase\ToLowerCase\obj\Debug\netcoreapp2.0\ToLowerCase.AssemblyInfoInputs.cache
+E:\C#\Leet_Code_Algorithms\ToLowerCase\ToLowerCase\obj\Debug\netcoreapp2.0\ToLowerCase.AssemblyInfo.cs
+E:\C#\Leet_Code_Algorithms\ToLowerCase\ToLowerCase\obj\Debug\netcoreapp2.0\ToLowerCase.dll
+E:\C#\Leet_Code_Algorithms\ToLowerCase\ToLowerCase\obj\Debug\netcoreapp2.0\ToLowerCase.pdb
