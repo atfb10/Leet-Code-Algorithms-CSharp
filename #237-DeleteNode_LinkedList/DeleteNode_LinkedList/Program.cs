@@ -36,7 +36,7 @@ namespace DeleteNode_LinkedList
             list.PrintLinkedList();
 
             // call method to delete
-            list.DeleteNode("Test1");
+            list.DeleteNode("Test0");
             Console.WriteLine("-----");
 
             // show new list
