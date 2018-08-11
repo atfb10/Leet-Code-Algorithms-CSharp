@@ -127,7 +127,7 @@ namespace DeleteNode_LinkedList
         {
             Node current = head;
 
-            while (current != null)
+            while (current.Next != null)
             {
                 if (current.Data.Equals(obj))
                 {
