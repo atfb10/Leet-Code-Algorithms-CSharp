@@ -1,0 +1,11 @@
+E:\C#\Leet_Code_Algorithms\35-SearchInsertPosition\35-SearchInsertPosition\bin\Debug\netcoreapp2.0\35-SearchInsertPosition.deps.json
+E:\C#\Leet_Code_Algorithms\35-SearchInsertPosition\35-SearchInsertPosition\bin\Debug\netcoreapp2.0\35-SearchInsertPosition.runtimeconfig.json
+E:\C#\Leet_Code_Algorithms\35-SearchInsertPosition\35-SearchInsertPosition\bin\Debug\netcoreapp2.0\35-SearchInsertPosition.runtimeconfig.dev.json
+E:\C#\Leet_Code_Algorithms\35-SearchInsertPosition\35-SearchInsertPosition\bin\Debug\netcoreapp2.0\35-SearchInsertPosition.dll
+E:\C#\Leet_Code_Algorithms\35-SearchInsertPosition\35-SearchInsertPosition\bin\Debug\netcoreapp2.0\35-SearchInsertPosition.pdb
+E:\C#\Leet_Code_Algorithms\35-SearchInsertPosition\35-SearchInsertPosition\obj\Debug\netcoreapp2.0\35-SearchInsertPosition.csprojAssemblyReference.cache
+E:\C#\Leet_Code_Algorithms\35-SearchInsertPosition\35-SearchInsertPosition\obj\Debug\netcoreapp2.0\35-SearchInsertPosition.csproj.CoreCompileInputs.cache
+E:\C#\Leet_Code_Algorithms\35-SearchInsertPosition\35-SearchInsertPosition\obj\Debug\netcoreapp2.0\35-SearchInsertPosition.AssemblyInfoInputs.cache
+E:\C#\Leet_Code_Algorithms\35-SearchInsertPosition\35-SearchInsertPosition\obj\Debug\netcoreapp2.0\35-SearchInsertPosition.AssemblyInfo.cs
+E:\C#\Leet_Code_Algorithms\35-SearchInsertPosition\35-SearchInsertPosition\obj\Debug\netcoreapp2.0\35-SearchInsertPosition.dll
+E:\C#\Leet_Code_Algorithms\35-SearchInsertPosition\35-SearchInsertPosition\obj\Debug\netcoreapp2.0\35-SearchInsertPosition.pdb
