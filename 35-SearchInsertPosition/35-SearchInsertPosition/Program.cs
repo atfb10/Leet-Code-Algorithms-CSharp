@@ -34,22 +34,37 @@ namespace _35_SearchInsertPosition
 
         /// <summary>
         /// Pass in array and number desired to get index of 
-        /// Sort array
-        /// Create index to hold current index of number
-        /// Loop through array
-        /// If index value = argument value, set index to that and return it
-        /// Else, convert array to list and add num to list
+        /// Start and end points
+        /// Loop until start = end
+        /// Create mid to hold midpoint of the array
+        /// If mid = value, return it
+        /// Else, if mid is less than num, start is at former mid + 1, and recheck
+        /// Same, but reverse for mid > num
+        /// Not found, convert array to list and add num to list
         /// Once added, convert back to array and sort the new array
-        /// Loop through new array and return submitted value's index
-        /// If index is not found, an error occurred and -1 is returned
+        /// Repeat binary search from before
+        /// If index is not found at this point, an error occurred and -1 is returned
         /// </summary>
         private static int SearchInsert(int[] input, int num)
         {
-            for (int i = 0; i < input.Length; i++)
+            int start = 0, end = input.Length - 1;
+
+            while (start <= end)
             {
-                if (input[i].Equals(num))
+                int mid = start + (end - start) / 2;
+
+                if (input[mid] == num)
                 {
-                    return i;
+                    return mid;
+                }
+
+                if (input[mid] < num)
+                {
+                    start = mid + 1;
+                }
+                else
+                {
+                    end = mid - 1;
                 }
             }
 
@@ -58,11 +73,25 @@ namespace _35_SearchInsertPosition
             input = addNum.ToArray();
             Array.Sort(input);
 
-            for (int i = 0; i < input.Length; i++)
+            start = 0;
+            end = input.Length - 1;
+
+            while (start <= end)
             {
-                if (input[i].Equals(num))
+                int mid = start + (end - start) / 2;
+
+                if (input[mid] == num)
                 {
-                    return i;
+                    return mid;
+                }
+
+                if (input[mid] < num)
+                {
+                    start = mid + 1;
+                }
+                else
+                {
+                    end = mid - 1;
                 }
             }
 
