@@ -1,0 +1,11 @@
+E:\C#\Leet_Code_Algorithms\204-CountPrimes\204-CountPrimes\bin\Debug\netcoreapp2.0\204-CountPrimes.deps.json
+E:\C#\Leet_Code_Algorithms\204-CountPrimes\204-CountPrimes\bin\Debug\netcoreapp2.0\204-CountPrimes.runtimeconfig.json
+E:\C#\Leet_Code_Algorithms\204-CountPrimes\204-CountPrimes\bin\Debug\netcoreapp2.0\204-CountPrimes.runtimeconfig.dev.json
+E:\C#\Leet_Code_Algorithms\204-CountPrimes\204-CountPrimes\bin\Debug\netcoreapp2.0\204-CountPrimes.dll
+E:\C#\Leet_Code_Algorithms\204-CountPrimes\204-CountPrimes\bin\Debug\netcoreapp2.0\204-CountPrimes.pdb
+E:\C#\Leet_Code_Algorithms\204-CountPrimes\204-CountPrimes\obj\Debug\netcoreapp2.0\204-CountPrimes.csprojAssemblyReference.cache
+E:\C#\Leet_Code_Algorithms\204-CountPrimes\204-CountPrimes\obj\Debug\netcoreapp2.0\204-CountPrimes.csproj.CoreCompileInputs.cache
+E:\C#\Leet_Code_Algorithms\204-CountPrimes\204-CountPrimes\obj\Debug\netcoreapp2.0\204-CountPrimes.AssemblyInfoInputs.cache
+E:\C#\Leet_Code_Algorithms\204-CountPrimes\204-CountPrimes\obj\Debug\netcoreapp2.0\204-CountPrimes.AssemblyInfo.cs
+E:\C#\Leet_Code_Algorithms\204-CountPrimes\204-CountPrimes\obj\Debug\netcoreapp2.0\204-CountPrimes.dll
+E:\C#\Leet_Code_Algorithms\204-CountPrimes\204-CountPrimes\obj\Debug\netcoreapp2.0\204-CountPrimes.pdb
