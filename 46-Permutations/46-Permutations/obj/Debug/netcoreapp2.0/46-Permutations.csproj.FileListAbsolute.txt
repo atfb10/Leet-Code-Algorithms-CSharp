@@ -1,0 +1,11 @@
+E:\C#\Leet_Code_Algorithms\46-Permutations\46-Permutations\bin\Debug\netcoreapp2.0\46-Permutations.deps.json
+E:\C#\Leet_Code_Algorithms\46-Permutations\46-Permutations\bin\Debug\netcoreapp2.0\46-Permutations.runtimeconfig.json
+E:\C#\Leet_Code_Algorithms\46-Permutations\46-Permutations\bin\Debug\netcoreapp2.0\46-Permutations.runtimeconfig.dev.json
+E:\C#\Leet_Code_Algorithms\46-Permutations\46-Permutations\bin\Debug\netcoreapp2.0\46-Permutations.dll
+E:\C#\Leet_Code_Algorithms\46-Permutations\46-Permutations\bin\Debug\netcoreapp2.0\46-Permutations.pdb
+E:\C#\Leet_Code_Algorithms\46-Permutations\46-Permutations\obj\Debug\netcoreapp2.0\46-Permutations.csprojAssemblyReference.cache
+E:\C#\Leet_Code_Algorithms\46-Permutations\46-Permutations\obj\Debug\netcoreapp2.0\46-Permutations.csproj.CoreCompileInputs.cache
+E:\C#\Leet_Code_Algorithms\46-Permutations\46-Permutations\obj\Debug\netcoreapp2.0\46-Permutations.AssemblyInfoInputs.cache
+E:\C#\Leet_Code_Algorithms\46-Permutations\46-Permutations\obj\Debug\netcoreapp2.0\46-Permutations.AssemblyInfo.cs
+E:\C#\Leet_Code_Algorithms\46-Permutations\46-Permutations\obj\Debug\netcoreapp2.0\46-Permutations.dll
+E:\C#\Leet_Code_Algorithms\46-Permutations\46-Permutations\obj\Debug\netcoreapp2.0\46-Permutations.pdb
