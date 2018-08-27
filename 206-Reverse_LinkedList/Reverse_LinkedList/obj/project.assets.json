@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\Leet_Code_Algorithms\\#206-Reverse_LinkedList\\Reverse_LinkedList\\Reverse_LinkedList.csproj",
+      "projectUniqueName": "E:\\C#\\Leet_Code_Algorithms\\206-Reverse_LinkedList\\Reverse_LinkedList\\Reverse_LinkedList.csproj",
       "projectName": "Reverse_LinkedList",
-      "projectPath": "E:\\C#\\Leet_Code_Algorithms\\#206-Reverse_LinkedList\\Reverse_LinkedList\\Reverse_LinkedList.csproj",
+      "projectPath": "E:\\C#\\Leet_Code_Algorithms\\206-Reverse_LinkedList\\Reverse_LinkedList\\Reverse_LinkedList.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\Leet_Code_Algorithms\\#206-Reverse_LinkedList\\Reverse_LinkedList\\obj\\",
+      "outputPath": "E:\\C#\\Leet_Code_Algorithms\\206-Reverse_LinkedList\\Reverse_LinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

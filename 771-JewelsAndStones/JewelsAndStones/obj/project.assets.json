@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\Leet_Code_Algorithms\\JewelsAndStones\\JewelsAndStones\\JewelsAndStones.csproj",
+      "projectUniqueName": "E:\\C#\\Leet_Code_Algorithms\\771-JewelsAndStones\\JewelsAndStones\\JewelsAndStones.csproj",
       "projectName": "JewelsAndStones",
-      "projectPath": "E:\\C#\\Leet_Code_Algorithms\\JewelsAndStones\\JewelsAndStones\\JewelsAndStones.csproj",
+      "projectPath": "E:\\C#\\Leet_Code_Algorithms\\771-JewelsAndStones\\JewelsAndStones\\JewelsAndStones.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\Leet_Code_Algorithms\\JewelsAndStones\\JewelsAndStones\\obj\\",
+      "outputPath": "E:\\C#\\Leet_Code_Algorithms\\771-JewelsAndStones\\JewelsAndStones\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

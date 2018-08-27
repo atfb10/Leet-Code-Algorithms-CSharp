@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\Leet_Code_Algorithms\\SumOfTwoIntegers\\SumOfTwoIntegers\\SumOfTwoIntegers.csproj",
+      "projectUniqueName": "E:\\C#\\Leet_Code_Algorithms\\371-SumOfTwoIntegers\\SumOfTwoIntegers\\SumOfTwoIntegers.csproj",
       "projectName": "SumOfTwoIntegers",
-      "projectPath": "E:\\C#\\Leet_Code_Algorithms\\SumOfTwoIntegers\\SumOfTwoIntegers\\SumOfTwoIntegers.csproj",
+      "projectPath": "E:\\C#\\Leet_Code_Algorithms\\371-SumOfTwoIntegers\\SumOfTwoIntegers\\SumOfTwoIntegers.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\Leet_Code_Algorithms\\SumOfTwoIntegers\\SumOfTwoIntegers\\obj\\",
+      "outputPath": "E:\\C#\\Leet_Code_Algorithms\\371-SumOfTwoIntegers\\SumOfTwoIntegers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

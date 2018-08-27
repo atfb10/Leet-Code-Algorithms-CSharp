@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\Leet_Code_Algorithms\\ReverseWordsInString\\ReverseWordsInString\\ReverseWordsInString.csproj",
+      "projectUniqueName": "E:\\C#\\Leet_Code_Algorithms\\557-ReverseWordsInString\\ReverseWordsInString\\ReverseWordsInString.csproj",
       "projectName": "ReverseWordsInString",
-      "projectPath": "E:\\C#\\Leet_Code_Algorithms\\ReverseWordsInString\\ReverseWordsInString\\ReverseWordsInString.csproj",
+      "projectPath": "E:\\C#\\Leet_Code_Algorithms\\557-ReverseWordsInString\\ReverseWordsInString\\ReverseWordsInString.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\Leet_Code_Algorithms\\ReverseWordsInString\\ReverseWordsInString\\obj\\",
+      "outputPath": "E:\\C#\\Leet_Code_Algorithms\\557-ReverseWordsInString\\ReverseWordsInString\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
