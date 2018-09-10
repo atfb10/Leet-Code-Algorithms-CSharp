@@ -1,0 +1,11 @@
+D:\Leetcode\Leet-Code-Algorithms-CSharp\1-TwoSum\1-TwoSum\bin\Debug\netcoreapp2.1\1-TwoSum.deps.json
+D:\Leetcode\Leet-Code-Algorithms-CSharp\1-TwoSum\1-TwoSum\bin\Debug\netcoreapp2.1\1-TwoSum.runtimeconfig.json
+D:\Leetcode\Leet-Code-Algorithms-CSharp\1-TwoSum\1-TwoSum\bin\Debug\netcoreapp2.1\1-TwoSum.runtimeconfig.dev.json
+D:\Leetcode\Leet-Code-Algorithms-CSharp\1-TwoSum\1-TwoSum\bin\Debug\netcoreapp2.1\1-TwoSum.dll
+D:\Leetcode\Leet-Code-Algorithms-CSharp\1-TwoSum\1-TwoSum\bin\Debug\netcoreapp2.1\1-TwoSum.pdb
+D:\Leetcode\Leet-Code-Algorithms-CSharp\1-TwoSum\1-TwoSum\obj\Debug\netcoreapp2.1\1-TwoSum.csprojAssemblyReference.cache
+D:\Leetcode\Leet-Code-Algorithms-CSharp\1-TwoSum\1-TwoSum\obj\Debug\netcoreapp2.1\1-TwoSum.csproj.CoreCompileInputs.cache
+D:\Leetcode\Leet-Code-Algorithms-CSharp\1-TwoSum\1-TwoSum\obj\Debug\netcoreapp2.1\1-TwoSum.AssemblyInfoInputs.cache
+D:\Leetcode\Leet-Code-Algorithms-CSharp\1-TwoSum\1-TwoSum\obj\Debug\netcoreapp2.1\1-TwoSum.AssemblyInfo.cs
+D:\Leetcode\Leet-Code-Algorithms-CSharp\1-TwoSum\1-TwoSum\obj\Debug\netcoreapp2.1\1-TwoSum.dll
+D:\Leetcode\Leet-Code-Algorithms-CSharp\1-TwoSum\1-TwoSum\obj\Debug\netcoreapp2.1\1-TwoSum.pdb
